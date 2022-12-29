@@ -17,6 +17,14 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=0074d0)
 
+### Testing Documentation
+
+- [Checklists](https://github.com/Denis1v/Checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/Denis1v/Test-Suites-and-Test-Cases.git)
+- [Bug-Reports](https://github.com/Denis1v/Bug-Reports.git)
+- [SQL Queries](https://github.com/Denis1v/SQL-Queries.git)
+- [Postman Collections](https://github.com/Denis1v/Postman-Collections.git)
+
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Denis_QA1)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/denis-solovov-99b696252/)
