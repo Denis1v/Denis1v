@@ -20,3 +20,5 @@
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Denis_QA1)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/denis-solovov-99b696252/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis1v&show_icons=true&theme=radical)
