@@ -1,4 +1,6 @@
-[![Header](https://github.com/Denis1v/Denis1v/blob/main/assets/photo_2022-12-31_01-27-59.jpg)]
+<center><img src=
+![Header]https://github.com/Denis1v/Denis1v/blob/main/assets/photo_2022-12-31_01-27-59.jpg
+</center>
 
 ### I'm a QA Tester.
 ____
