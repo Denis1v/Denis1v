@@ -1,6 +1,6 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://github.com/Denis1v/Denis1v/blob/main/assets/photo_2022-12-31_01-27-59.jpg]
 
-### I'm a QA Engineer.
+### I'm a QA Tester.
 ____
 ## My CV 
 _[Link to my CV](https://drive.google.com/file/d/1ojH2ZLODLUUMH4pE3ZGoXk9BgwT92Ap3/view?usp=share_link)_
